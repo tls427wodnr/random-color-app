@@ -9,7 +9,7 @@ import UIKit
 
 class MainView: UIView {
 
-    let titleLabel = UILabel()
+        let titleLabel = UILabel()
         let changeColorButton = UIButton()
         let resetButton = UIButton()
 
