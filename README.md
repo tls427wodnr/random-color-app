@@ -4,5 +4,5 @@
   - change color 버튼 클릭 -> 색상 랜덤 변경
   - reset 버튼 클릭 -> 색상 초기화 
 
-# 구현영상
+# 시연 영상
 https://tlswodnr427.tistory.com/9
